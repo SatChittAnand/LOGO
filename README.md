@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>A collection of iconic logos and graphic designs built with Python</strong><br>
-  Featuring Apple, Google, Avengers, Batman, VS Code, and more!
+  Featuring Apple, Google, Avengers, Batman, VS Code, and more!!
 </p>
 
 <p align="center">
